@@ -8,10 +8,6 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<None Remove="script.txt" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<PackageReference Include="Esri.ArcGISRuntime.Toolkit.WPF" Version="200.3.0" />
 	</ItemGroup>
 
